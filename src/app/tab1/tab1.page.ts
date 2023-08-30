@@ -28,7 +28,7 @@ export class Tab1Page {
 
 
 
- /* // aqui ele abre aquele pop-over alert
+ /* // testando alert 
   constructor() {
     private UserProvider:UserProvider
     //this.somaDoisnumeros(10,99);
@@ -41,4 +41,5 @@ export class Tab1Page {
    /* public somaDoisnumeros(num1:number, num2:number): void {
 
       // tem o alert para trazer o pop-over em tela
-      alert (num1+num2);*/
+      alert (num1+num2);
+      }*/
